@@ -1,4 +1,3 @@
-# trading-bot
 # Trading Bot Application
 
 ## Overview
