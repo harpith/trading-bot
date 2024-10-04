@@ -17,3 +17,4 @@ This is a simple Node.js application that simulates a trading bot using a mock A
    npm install
    npm install express
    npm install dotenv
+   npm install axioms
